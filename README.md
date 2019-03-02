@@ -1,2 +1,2 @@
 # Coursera-Battle-of-Neighborhoods
-Applied Data Science Capstone Project Mateials
+Applied Data Science Capstone Project Materials
